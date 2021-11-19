@@ -1,0 +1,13 @@
+{
+  "name": "@dylan/cors",
+  "version": "0.1.0",
+  "description": "Middleware for Dylan which enables cors handling.",
+  "license": "MIT",
+  "keywords": [
+    "middleware",
+    "dylan"
+  ],
+  "repository": "shanebo/cors",
+  "author": "Shane Thacker <shane@steadymade.com>",
+  "main": "./index"
+}
